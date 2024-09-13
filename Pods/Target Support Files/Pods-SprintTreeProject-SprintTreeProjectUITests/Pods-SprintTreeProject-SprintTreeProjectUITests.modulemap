@@ -1,0 +1,6 @@
+framework module Pods_SprintTreeProject_SprintTreeProjectUITests {
+  umbrella header "Pods-SprintTreeProject-SprintTreeProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

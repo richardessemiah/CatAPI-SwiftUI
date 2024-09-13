@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SprintTreeProject
+
+  Created by Richard Essemiah on 13/09/2024.
+  
+*/
+// MARK: General
+"FILTER" = "Filter";
+"HAS_BREED" = "Has breed";
+"ORDER_BY" = "Order by";
+"HAS_BREED" = "Has breed";
+"RANDOM" = "Random";
+

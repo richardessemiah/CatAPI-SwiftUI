@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - BrightFutures (8.2.0)
+  - ObjectMapper (3.5.3)
+  - SDWebImage (5.19.7):
+    - SDWebImage/Core (= 5.19.7)
+  - SDWebImage/Core (5.19.7)
+  - SDWebImageSwiftUI (3.1.1):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - BrightFutures
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BrightFutures
+    - ObjectMapper
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  BrightFutures: 67e0e8cd974ab9f6c04650cc64153f7adf1ec489
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SDWebImage: 8a6b7b160b4d710e2a22b6900e25301075c34cb3
+  SDWebImageSwiftUI: dcff3d05fd0579ff280221ae8856c34ac3b67f25
+
+PODFILE CHECKSUM: 5ed7c90839bf363d78a1719d4025ebc8c5527dca
+
+COCOAPODS: 1.14.3

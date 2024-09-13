@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  SprintTreeProject
+
+  Created by Richard Essemiah on 13/09/2024.
+  
+*/
+// MARK: General
+"FILTER" = "Filter";
+"HAS_BREED" = "Has breed";
+"ORDER_BY" = "Order by";
+"HAS_BREED" = "Has breed";
+"RANDOM" = "Random";
+"ASC" = "Asc";
+"DESC" = "Desc";
+"VOTES" = "Votes";
+"FAVORITES" = "Favorites";
+"VOTE" = "Vote";
+"FAVORITE" = "Favorite";
+"UPLOAD_IMAGE" = "Upload image";
+"PROFILE" = "Profile";
+"SUCCESS" = "Success";
+"CAT_FAVORITED" = "This image cat has been favorited";
+"CAT_VOTED" = "This image cat has been voted";
+"ERROR" = "Error";
+"API_ERROR" = "There is an API error";
